@@ -26,7 +26,7 @@ It’s not just eye-candy. It’s **interpretability**, **neuroscience**, and **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **TensorFlow 1.x** — for fine-grained control over model operations
 - **InceptionV1 (GoogLeNet)** — pre-trained CNN model trained on ImageNet
@@ -36,7 +36,7 @@ It’s not just eye-candy. It’s **interpretability**, **neuroscience**, and **
 
 ---
 
-## 🖼️ What You’ll See
+## What You’ll See
 
 You’ll start with a normal image — say, a photo of your cat.
 
@@ -48,7 +48,7 @@ It's not random. It’s the model revealing what it *knows* — and what it *wan
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
 1. **Clone the repo**
    ```bash
