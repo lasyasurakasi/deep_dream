@@ -1,12 +1,12 @@
-# 🧠 Deep Dream — Visualizing a Neural Network’s Imagination
+# Deep Dream — Visualizing a Neural Network’s Imagination
 
 What happens when you show a neural network a picture... and then ask it to "dream"?
 
-This project is a step-by-step recreation of **Google's Deep Dream**, a fascinating technique that visualizes the patterns learned by convolutional neural networks (CNNs). By amplifying the features the network sees in an image, we get results that are trippy, surreal — and deeply insightful.
+This project is a fascinating technique that visualizes the patterns learned by convolutional neural networks (CNNs). By amplifying the features the network sees in an image, we get results that are trippy, surreal — and deeply insightful.
 
 ---
 
-## 🧬 How It Mimics the Human Brain
+## How It Mimics the Human Brain
 
 Neural networks are inspired by the structure of the **human visual cortex**. Just like how your brain processes what you see in stages — edges, colors, patterns, faces — a CNN processes an image through multiple layers of neurons.
 
